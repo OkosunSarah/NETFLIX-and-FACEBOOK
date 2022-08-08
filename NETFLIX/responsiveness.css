@@ -1,0 +1,92 @@
+@media screen and (max-width: 800px) {
+    .net{
+        height: 270px;
+        
+    }
+    #n2{
+        font-size: 15px ;
+    }
+    #n5{
+        padding: 10px;
+        width: 250px;
+    }
+    #n6{
+        padding: 10px;
+        width: 120px;
+    }
+    #nett{
+        font-size: 10px;
+        margin-bottom: 30px;
+        margin-right: 20px;
+    }
+   .nettv{
+    flex-wrap: wrap;
+   }
+   .nettv1{
+    flex-wrap: wrap;
+    
+   }
+   #nett1{
+    font-size: 12px;
+    margin-top: 80px;
+   }
+   #wa{
+    font-size: 10px;
+    height: 150px;
+    
+   }
+   .kids{
+    flex-wrap: wrap;
+   }
+   #kidss{
+    font-size: 12px;
+    margin-top: 9px ;
+   }
+    #h1{
+    font-size: 20px;
+    margin-right: 100px;
+   }
+   .det{
+     font-size: 17px;
+     margin-left: 10px;
+   }
+   #em{
+   padding: 10px;
+   width: 250px;
+   }
+   #get{
+    padding: 10px;
+    width: 120px;    
+   }
+   .contact{
+    padding: 40px;
+    height: 100px;
+   }
+   .a{
+    font-size: 9px;
+    padding: 0px;
+   }
+   #sign img, #n4 img{
+    width: 90px;
+    height: 60px;
+    margin-right: 100px;
+   }
+
+   .signin{
+    width: 200px;
+   }
+   #s1, #s2, #s3{
+    height: 2rem;
+    width: 200px;
+    padding: 4px;
+   }
+   .help{
+    font-size: 15px;
+   }
+   #n1{
+    width: 100px;
+    height: 40px;
+    padding-top: 10px;
+   }
+}
+    

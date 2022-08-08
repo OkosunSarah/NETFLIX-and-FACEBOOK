@@ -1,0 +1,153 @@
+:root{
+    --primary: hsl(0, 0%, 0%, 0.65);
+    --scondary: hsl(0, 0%, 0%, 0.65);
+}
+*{margin: 0;
+  padding: 0;
+}
+    
+.net{
+        background-image:  url(netflixpics.jpg);  
+        height: 500px;
+    }
+.ne{
+    display: flex; justify-content: space-between ;
+    margin: auto;
+}
+#n4 img{
+    width: 150px;
+    height: 70px;
+    margin-left: 100px;
+    margin-top: 15px;
+}
+
+#n1{
+    margin-top: 30px;
+    margin-right: 100px;
+    background-color: red;
+    color: white;
+    border-radius: .5rem;
+    box-sizing: border-box;
+    width: 100px;
+    height: 40px;
+    text-decoration: none;
+    text-align: center;
+    padding-top: 10px;
+}
+#n2{
+    font-size: 30px;
+    text-align: center;
+    color: white ;
+}
+.n56{
+    text-align: center;
+    padding: 32px;
+}
+#n5 , #em{
+    background-color: white;
+    padding: 17px;
+    width: 400px;
+}
+#n6 , #get{
+    background-color: red;
+    padding: 17px;
+    width: 150px ;
+    color: white;
+}
+.nettv{
+    display: flex;justify-content: space-between; 
+    background-color: black;
+}
+.netimg{
+    margin-top: 20px;
+}
+#nett{
+    color: white;
+    margin-left: 70px;
+    margin-top: 120px;
+    font-size: 20px;
+}
+.nettv1{
+    background-color: black;
+    display: flex; justify-content: space-between; 
+    flex-wrap: wrap;
+    border-bottom: 9px solid  rgb(88, 77, 77);
+    margin-bottom: 0px;
+}
+#nett1{
+    color: white;
+    margin-top: 150px;
+    margin-right: 60px;
+    font-size: 22px;
+}
+#wa {
+    background-color: black;
+    color: aliceblue;
+    font-size: 20px;
+    height: 250px;
+    border-bottom: 9px solid  rgb(88, 77, 77);
+    margin-top: 0px;
+    
+    box-sizing: border-box;
+}
+
+.kids{
+    display: flex; justify-content: space-between;
+    background-color: black;
+}
+#kidss{
+    color: white;
+    margin-top: 90px;
+    font-size: 22px;
+    margin-right: 10px;
+}
+.Qus{
+    text-align: center;
+    background-color: black;
+    color: white;
+    flex-direction: ;
+
+}
+#h1{
+    font-size: 50px;
+}
+.det{
+    
+    display: ;
+    box-sizing: border-box;
+    padding: .3rem;
+    border-radius: .3rem;
+    margin-left: 220px;
+    text-align: justify;
+    font-size: 40px;
+    margin-right: 100px;
+}
+.getem{
+    padding: 32px;
+}
+.summary summary{
+    /* background-color: rgba(88, 77, 77, 0.61); */
+    border-bottom: 1px solid black;
+    padding-right: 10px;
+    padding-left: 10px;
+
+}
+.summary details{
+    background-color: rgba(88, 77, 77, 0.61);
+    margin-bottom: 20px;
+
+}
+.contact{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    height: 200px;
+    padding: 70px;
+}
+.a{
+    color: white;
+    text-decoration: none;
+    padding: .1rem;
+    font-size: 20px;
+    font-weight: lighter 10px;
+}
